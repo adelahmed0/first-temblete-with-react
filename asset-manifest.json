@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-temblete-with-react/static/css/main.203ae3e8.css",
+    "main.js": "/first-temblete-with-react/static/js/main.b0d42b54.js",
+    "static/js/787.e4dbf9d8.chunk.js": "/first-temblete-with-react/static/js/787.e4dbf9d8.chunk.js",
+    "index.html": "/first-temblete-with-react/index.html",
+    "main.203ae3e8.css.map": "/first-temblete-with-react/static/css/main.203ae3e8.css.map",
+    "main.b0d42b54.js.map": "/first-temblete-with-react/static/js/main.b0d42b54.js.map",
+    "787.e4dbf9d8.chunk.js.map": "/first-temblete-with-react/static/js/787.e4dbf9d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203ae3e8.css",
+    "static/js/main.b0d42b54.js"
+  ]
+}
