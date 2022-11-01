@@ -8,7 +8,7 @@ class App extends Component {
     
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/first-temblete-with-react/">
         <Navbar />
         <Routes>
           <Route path='/' element={<Index />} />
