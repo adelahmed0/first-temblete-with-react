@@ -5,10 +5,10 @@ import Index from './Components/Index'
 import Navbar from './Components/Navbar'
 
 class App extends Component {
-    
+
   render() {
     return (
-      <BrowserRouter basename="/first-temblete-with-react/">
+      <BrowserRouter basename={'/first-temblete-with-react'}>
         <Navbar />
         <Routes>
           <Route path='/' element={<Index />} />
